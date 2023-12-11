@@ -1,9 +1,7 @@
 # PicoSMARS
-Welcome MagPi readers!
-
 This is the code repository for PicoSMARS - the Raspbery Pi Powered SMARS Robot. Checkout [SMARSFan.com](https://www.smarsfan.com) for more information about these amazing small robots. 
 
-I also have a YouTube channel dedicated to Small Robots, be sure to check it out: <https://www.youtube.com/c/kevinmcaleer28>
+The original author also has a YouTube channel dedicated to Small Robots, be sure to check it out: <https://www.youtube.com/c/kevinmcaleer28>
 
 ---
 
@@ -21,3 +19,7 @@ Visit <https://www.smarsfan.com/bots/pico/picosmars> to download the STL files, 
 
 ## SMARS Mini website
 Visit <https://www.smarsfan.com/smars_mini> to download the STL files and learn more about this project.
+
+---
+
+This fork of the repo is John M. Brewer's attempt to refactor and comment to make code more suitable to his personal coding style and better learn what it is doing.
